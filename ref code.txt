@@ -1,0 +1,4 @@
+ng g module layout
+ng g c layout
+ng generate module layout-routing --flat --module=layout
+ng g c layout/components/header --spec=false
